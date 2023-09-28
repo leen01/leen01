@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nick!
+👋 Hi, I’m Nick!
 
 An enthusiastic professional committed to advancing the field of data science. Within my role, I specialize in crafting cutting-edge tools designed to automate complex analyses, thereby streamlining the workflow for scientists.
 
