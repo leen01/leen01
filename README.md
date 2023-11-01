@@ -6,11 +6,8 @@ My primary passion lies in harnessing the power of data science tools such as Py
 
 I recently obtained a Master's degree in Information and Data Science at the esteemed University of California, Berkeley (August, 2023). I am keenly interested in collaborating on projects related to natural language processing and computer vision.
 
+See my work as a Data Curator at Sage Bionetworks here -> https://github.com/nlee-sage
+
 If you wish to connect or discuss potential collaborations, please don't hesitate to contact me at nicklee0101@gmail.com.
 
 I look forward to the opportunity to contribute to impactful data science endeavors.
-
-<!---
-leen01/leen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
